@@ -4,6 +4,10 @@
 
 }
 
+#aboutimg1 {
+	width: 520px;
+}
+
 
 .page-title{
 color:#334852;
@@ -57,4 +61,8 @@ padding:60px 0 60px 0;
 
 #parallax_1 h1.page-title{
 color:#fff;
+}
+
+#contact {
+	padding: 10px;
 }
