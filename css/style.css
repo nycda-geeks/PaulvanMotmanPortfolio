@@ -94,7 +94,7 @@ width:150px;
 #home{
 height:100%;
 display:table;
-max-height:35%;
+max-height:100%;
 vertical-align:milddle;
 width:100%;
 position:relative;

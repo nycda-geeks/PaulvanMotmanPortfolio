@@ -1,0 +1,40 @@
+#aboutimg {
+	padding-top: 25px;
+	margin-bottom: 20px;
+
+}
+
+
+.page-title{
+color:#334852;
+font-family:open sans;
+font-size:18px;
+font-weight:300;
+letter-spacing:2px;
+line-height:35px;
+margin-bottom:0px;
+text-transform:uppercase;
+}
+
+#about #page-title {
+	margin-top: 20px;
+}
+
+#home{
+height:100%;
+display:table;
+max-height:40%;
+vertical-align:milddle;
+width:100%;
+position:relative;
+}
+
+.home-parallax, .parallax-bg, #home{
+background:url(../img/Amsterdam.jpeg) no-repeat fixed center top;
+-webkit-background-size:/*@@prefixmycss->No equivalent*/;
+   -moz-background-size:cover;
+     -o-background-size:/*@@prefixmycss->No equivalent*/;
+        background-size:100% 100%;
+
+}
+
