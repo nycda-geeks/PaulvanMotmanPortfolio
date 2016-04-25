@@ -38,3 +38,23 @@ background:url(../img/Amsterdam.jpeg) no-repeat fixed center top;
 
 }
 
+#parallax_1{
+	max-height: 60%;
+}
+
+.parallax-bg, #parallax_1{
+background:url(../img/Amsterdam.jpeg) no-repeat fixed center top;
+/*background-size*/
+-webkit-background-size:/*@@prefixmycss->No equivalent*/;
+   -moz-background-size:cover;
+     -o-background-size:/*@@prefixmycss->No equivalent*/;
+        background-size:cover;
+}
+
+.call_to_action{
+padding:60px 0 60px 0;
+}
+
+#parallax_1 h1.page-title{
+color:#fff;
+}
