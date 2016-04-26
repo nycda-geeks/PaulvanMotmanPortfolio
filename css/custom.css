@@ -5,8 +5,9 @@
 }
 
 #aboutimg1 {
-	width: 520px;
-	border-radius: 60px;
+	width: 300px;
+	border-radius: 100%;
+	margin: 30px auto auto auto;
 }
 
 
